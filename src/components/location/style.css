@@ -1,0 +1,10 @@
+.range::-moz-range-thumb {
+	border: none;
+	background-image: url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMCIgaGVpZ2h0PSI1Ij48ZyBmaWxsPSJub25lIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiPjxwYXRoIGZpbGw9IiM2NjYiIGQ9Ik0wIDBoMXYxSDB6bTMgMGgxdjFIM3ptMyAwaDF2MUg2em0zIDBoMXYxSDl6TTAgM2gxdjFIMHptMyAwaDF2MUgzem0zIDBoMXYxSDZ6bTMgMGgxdjFIOXptMCAwIi8+PHBhdGggZmlsbD0iI0ZGRiIgZmlsbC1vcGFjaXR5PSIuNzUiIGQ9Ik0wIDFoMXYxSDB6bTMgMGgxdjFIM3ptMyAwaDF2MUg2em0zIDBoMXYxSDl6TTAgNGgxdjFIMHptMyAwaDF2MUgzem0zIDBoMXYxSDZ6bTMgMGgxdjFIOXptMCAwIi8+PC9nPjwvc3ZnPg==);
+	background-repeat: no-repeat;
+	background-position: center 5px;
+	border-top: 0;
+	border-bottom: 0;
+	height: 13px;
+	background-color: white;
+}
